@@ -14,6 +14,3 @@
     	<img src="https://img.shields.io/badge/webstorm-000000?style=flat&logo=webstorm&logoColor=white" />
 </div>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so1gging&langs_count=10&layout=compact&theme=dark)](https://github.com/so1gging/so1gging)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=so1gging&show_icons=true&theme=github_dark)
