@@ -23,3 +23,8 @@
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 	<img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white" />
 </div>
+
+#### 💡 저는,
+- 매일 하나씩 공부한 내용을 [정리](https://github.com/so1gging/TIL)하고 있어요.
+- 종종 마음에 드는 기술서적을 읽고 [기록](https://github.com/so1gging/read-the-books)하고 있어요.
+- [기술 블로그](https://yzlosmik.tistory.com/)를 통해 가끔씩 포스팅하고 있어요.
