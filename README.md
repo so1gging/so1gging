@@ -23,6 +23,7 @@
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 	<img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white" />
 	<img src="https://img.shields.io/badge/swiftUI-F05138?style=flat&logo=swift&logoColor=white" />
+	<img src="https://img.shields.io/badge/aws-FF9900?style=flat&logo=amazonaws&logoColor=white" />
 </div>
 
 #### 😊 저는,
