@@ -3,6 +3,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fso1gging&count_bg=%2358A9E7&title_bg=%23767676&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/so1gging"
+  width="600"
+  height="300"
+/>
+</a>
+
 #### 📚 제 Tech stack은 아래와 같아요.
 <div align="left">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
@@ -15,17 +23,3 @@
     	<img src="https://img.shields.io/badge/webstorm-000000?style=flat&logo=webstorm&logoColor=white" />
 </div>
 <br>
-
-#### 💡 깊은 지식은 없지만, 경험해보았어요.
-<div align="left">
-	<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-	<img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white" />
-	<img src="https://img.shields.io/badge/swiftUI-F05138?style=flat&logo=swift&logoColor=white" />
-	<img src="https://img.shields.io/badge/aws-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-</div>
-
-#### 😊 저는,
-- 매일 하나씩 공부한 내용을 [정리](https://github.com/so1gging/TIL)하고 있어요.
-- 종종 마음에 드는 기술서적을 읽고 [기록](https://github.com/so1gging/read-the-books)하고 있어요.
