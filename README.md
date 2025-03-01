@@ -1,3 +1,4 @@
+
 # Hi, THERE 👋🏻
 > 유연한 코드를 늘 고민하는 **프론트 엔지니어** 입니다. 🌱
 
@@ -23,3 +24,14 @@
     	<img src="https://img.shields.io/badge/webstorm-000000?style=flat&logo=webstorm&logoColor=white" />
 </div>
 <br>
+
+### ✨ New posts
+ - [1/11 - React에서 에러 처리 종류 (Axios Interceptor, Error Boundary, createBrowserRouter 의 errorElement 처리)](https://yzlosmik.tistory.com/181)
+ - [1/11 - React에서 Error boundary (에러 바운더리) 를 쓰는 이유](https://yzlosmik.tistory.com/180)
+ - [1/11 - 프론트엔드 빌드에서 일어나는 과정](https://yzlosmik.tistory.com/179)
+ - [2/25 - React에서 state를 정의할 때 고려해야 할 점 (feat. SSOT)](https://yzlosmik.tistory.com/178)
+ - [2/24 - React 컴포넌트 타입인 ReactElement vs JSX.Element vs ReactNode 차이와 예시](https://yzlosmik.tistory.com/177)
+ - [2/16 - 타입도 분기처리 할 수 있나요? 타입스크립트에서 조건부 타입 알아보기](https://yzlosmik.tistory.com/176)
+
+</div>
+</div>
