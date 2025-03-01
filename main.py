@@ -31,7 +31,7 @@ markdown_text = """
 </div>
 <br>
 
-### ✨ New posts
+#### ✨ New posts
 """
 
 for idx, feed in enumerate(RSS_FEED['entries']):
