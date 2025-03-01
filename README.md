@@ -25,7 +25,7 @@
 </div>
 <br>
 
-#### ✨ New posts
+### ✨ New posts
  - [1/11 - React에서 에러 처리 종류 (Axios Interceptor, Error Boundary, createBrowserRouter 의 errorElement 처리)](https://yzlosmik.tistory.com/181)
  - [1/11 - React에서 Error boundary (에러 바운더리) 를 쓰는 이유](https://yzlosmik.tistory.com/180)
  - [1/11 - 프론트엔드 빌드에서 일어나는 과정](https://yzlosmik.tistory.com/179)
