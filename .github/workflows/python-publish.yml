@@ -31,10 +31,8 @@ jobs:
         python main.py
     - name: Update README.md file
       run: |
-        git pull
-        git add .
-        git diff
         git config --local user.email "so1gging@gmail.com"
         git config --local user.name "so1gging"
-        git commit -m "Update README.md"
+        git add README.md
+        git commit -m "Update README.md" || echo "No changes to commit"
         git push
