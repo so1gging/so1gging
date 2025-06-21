@@ -5,19 +5,12 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 markdown_text = """
-# Hi, THERE 👋🏻
-> 유연한 코드를 늘 고민하는 **프론트 엔지니어** 입니다. 🌱
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Tipping%20Hand.png" alt="Woman Tipping Hand" width="130" height="130" />
+	<div style="background-color:#f6f8fa; color: #1f2328; padding: 16px; border-radius: 6px;">사용자의 입장에서 늘 고민하는 프론트 엔지니어 입니다. 🌱</div>
+</div>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/so1gging"
-  width="600"
-  height="300"
-/>
-</a>
-
-#### 📚 제 Tech stack은 아래와 같아요.
-<div align="left">
+<div align="center" style="margin-top:15px;">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
