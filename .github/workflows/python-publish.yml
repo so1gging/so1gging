@@ -5,34 +5,34 @@ name: Python application
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
   schedule:
-  - cron: "0 0 */1 * *"
+    - cron: "0 0 */1 * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.9
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install feedparser
-    - name: Run Update Python Script
-      run: |
-        python main.py
-    - name: Update README.md file
-      run: |
-        git config --local user.email "so1gging@gmail.com"
-        git config --local user.name "so1gging"
-        git add README.md
-        git commit -m "Update README.md" || echo "No changes to commit"
-        git push
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
+      - name: Run Update Python Script
+        run: |
+          python main.py
+      - name: Update README.md file
+        run: |
+          git config --local user.email "so1gging@gmail.com"
+          git config --local user.name "so1gging"
+          git add README.md
+          git commit -m "Update README.md" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push
