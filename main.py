@@ -7,10 +7,12 @@ MAX_POST = 5
 markdown_text = """
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Tipping%20Hand.png" alt="Woman Tipping Hand" width="130" height="130" />
-	<div style="background-color:#f6f8fa; color: #1f2328; padding: 16px; border-radius: 6px;">사용자의 입장에서 늘 고민하는 프론트 엔지니어 입니다. 🌱</div>
-</div>
 
-<div align="center" style="margin-top:15px;">
+    💬 사용자의 입장에서 늘 고민하는 프론트 엔지니어 입니다. 🌱
+
+</div>
+<br/>
+<div align="center">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
