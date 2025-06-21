@@ -1,6 +1,3 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
-
 name: Python application
 
 on:
@@ -28,11 +25,16 @@ jobs:
       - name: Run Update Python Script
         run: |
           python main.py
-      - name: Update README.md file
+      - name: Configure git user
         run: |
           git config --local user.email "so1gging@gmail.com"
           git config --local user.name "so1gging"
+      - name: Pull latest changes
+        run: |
+          git fetch origin main
+          git rebase origin/main
+      - name: Commit and push changes
+        run: |
           git add README.md
-          git commit -m "Update README.md" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push
+          git diff --cached --quiet || git commit -m "Update README.md"
+          git push origin main
