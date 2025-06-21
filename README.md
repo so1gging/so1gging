@@ -19,12 +19,12 @@
 <br>
 
 #### ✨ New posts
+ - [6/21 - React 19 의 새로운 훅 살펴보기](https://yzlosmik.tistory.com/185)
+ - [6/21 - Hello World ! ☀️](https://yzlosmik.tistory.com/notice/184)
  - [6/2 - 눈물겨운 e2e테스트 속도 개선 - 문제점 파악하기](https://yzlosmik.tistory.com/183)
  - [5/17 - 자바스크립트 비동기 작업에 대한 오해](https://yzlosmik.tistory.com/182)
  - [1/11 - React에서 에러 처리 종류 (Axios Interceptor, Error Boundary, createBrowserRouter 의 errorElement 처리)](https://yzlosmik.tistory.com/181)
  - [1/11 - React에서 Error boundary (에러 바운더리) 를 쓰는 이유](https://yzlosmik.tistory.com/180)
- - [1/11 - 프론트엔드 빌드에서 일어나는 과정](https://yzlosmik.tistory.com/179)
- - [2/25 - React에서 state를 정의할 때 고려해야 할 점 (feat. SSOT)](https://yzlosmik.tistory.com/178)
 
 </div>
 </div>
