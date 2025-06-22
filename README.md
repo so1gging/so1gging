@@ -1,3 +1,4 @@
+
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Tipping%20Hand.png" alt="Woman Tipping Hand" width="130" height="130" />
 
@@ -19,16 +20,13 @@
 <br/>
 
 저에 대해서 알고 싶으시다면, [이력서](https://www.rallit.com/resumes/497939@999rty/%EA%B9%80%EC%86%94%EC%A7%80) 를 참고해주세요 🫧
-<br>
-
 #### ✨ New posts
-
-- [6/21 - 번들러와 빌드 도구, 트랜스컴파일러의 차이](https://yzlosmik.tistory.com/187)
-- [6/21 - React 19 의 새로운 훅 살펴보기](https://yzlosmik.tistory.com/185)
-- [6/21 - Hello World ! ☀️](https://yzlosmik.tistory.com/notice/184)
-- [6/2 - 눈물겨운 e2e테스트 속도 개선 - 문제점 파악하기](https://yzlosmik.tistory.com/183)
-- [5/17 - 자바스크립트 비동기 작업에 대한 오해](https://yzlosmik.tistory.com/182)
-- [1/11 - React에서 에러 처리 종류 (Axios Interceptor, Error Boundary, createBrowserRouter 의 errorElement 처리)](https://yzlosmik.tistory.com/181)
+ - [6/21 - 번들러와 빌드 도구, 트랜스컴파일러의 차이](https://yzlosmik.tistory.com/187)
+ - [6/21 - React 19 의 새로운 훅 살펴보기](https://yzlosmik.tistory.com/185)
+ - [6/21 - Hello World ! ☀️](https://yzlosmik.tistory.com/notice/184)
+ - [6/2 - 눈물겨운 e2e테스트 속도 개선 - 문제점 파악하기](https://yzlosmik.tistory.com/183)
+ - [5/17 - 자바스크립트 비동기 작업에 대한 오해](https://yzlosmik.tistory.com/182)
+ - [1/11 - React에서 에러 처리 종류 (Axios Interceptor, Error Boundary, createBrowserRouter 의 errorElement 처리)](https://yzlosmik.tistory.com/181)
 
 </div>
 </div>
