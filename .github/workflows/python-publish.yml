@@ -3,10 +3,8 @@ name: Python application
 on:
   push:
     branches: [main]
-  pull_request:
-    branches: [main]
   schedule:
-    - cron: "0 0 * * *"  # 매일 자정 실행
+    - cron: "0 0 * * *" # 매일 자정 실행
 
 jobs:
   build:
