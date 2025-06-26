@@ -21,12 +21,12 @@
 
 저에 대해서 알고 싶으시다면, [이력서](https://www.rallit.com/resumes/497939@999rty/%EA%B9%80%EC%86%94%EC%A7%80) 를 참고해주세요 🫧
 #### ✨ New posts
+ - [6/25 - 리액트의 Event Bus 알아보기](https://yzlosmik.tistory.com/190)
  - [6/24 - 서버컴포넌트의 개념과 서버(server) 의 의미](https://yzlosmik.tistory.com/189)
  - [6/22 - ReactDOM.render 로 모달 구현해보기](https://yzlosmik.tistory.com/188)
  - [6/21 - 번들러와 빌드 도구, 트랜스컴파일러의 차이](https://yzlosmik.tistory.com/187)
  - [6/21 - React 19 의 새로운 훅 살펴보기](https://yzlosmik.tistory.com/185)
  - [6/21 - Hello World ! ☀️](https://yzlosmik.tistory.com/notice/184)
- - [6/2 - 눈물겨운 e2e테스트 속도 개선 - 문제점 파악하기](https://yzlosmik.tistory.com/183)
 
 </div>
 </div>
