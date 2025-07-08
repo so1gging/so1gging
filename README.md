@@ -21,12 +21,12 @@
 
 저에 대해서 알고 싶으시다면, [이력서](https://www.rallit.com/resumes/497939@999rty/%EA%B9%80%EC%86%94%EC%A7%80) 를 참고해주세요 🫧
 #### ✨ New posts
+ - [7/7 - React native eas build/expo start/expo run 차이](https://yzlosmik.tistory.com/195)
  - [7/5 - react native expo 환경에서 네이버지도 웹뷰로 보여주기 (feat. 인증실패해결)](https://yzlosmik.tistory.com/194)
  - [7/5 - react native expo환경에서 환경변수 설정하는 방법](https://yzlosmik.tistory.com/193)
  - [7/4 - expo로 app router 방식 시작하기](https://yzlosmik.tistory.com/192)
  - [7/4 - expo로 React Native 시작하기 (Typescript, ESLint, Prettier)](https://yzlosmik.tistory.com/191)
  - [6/25 - 리액트의 Event Bus 알아보기](https://yzlosmik.tistory.com/190)
- - [6/24 - 서버컴포넌트의 개념과 서버(server) 의 의미](https://yzlosmik.tistory.com/189)
 
 </div>
 </div>
