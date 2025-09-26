@@ -19,7 +19,7 @@
 
 <br/>
 
-저에 대해서 알고 싶으시다면, [이력서](https://www.rallit.com/resumes/497939@999rty/%EA%B9%80%EC%86%94%EC%A7%80) 를 참고해주세요 🫧
+저에 대해서 알고 싶으시다면, [이력서](https://kimsolzy.notion.site/512ead6e4bba4bcd803155418d29646e) 를 참고해주세요 🫧
 #### ✨ New posts
  - [7/8 - ECMPScript 2025 의 새로운 기능](https://yzlosmik.tistory.com/196)
  - [7/7 - React native eas build/expo start/expo run 차이](https://yzlosmik.tistory.com/195)
