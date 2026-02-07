@@ -17,5 +17,3 @@
 </div>
 
 <br/>
-
-저에 대해서 알고 싶으시다면, [이력서](https://kimsolzy.notion.site/512ead6e4bba4bcd803155418d29646e) 를 참고해주세요 🫧
